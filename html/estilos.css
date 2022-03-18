@@ -37,8 +37,16 @@ p
     {   
         text-align: center;
         border: 10px solid black;
-        padding: 50px;
-        margin: 80px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 200px;
+        padding-right: 200px;
+        margin-right: 300px;
+        margin-left: 300px;
+        border-left-width: 20px;
+        border-right-width: 20px;
+        border-top-width: 20px;
+        border-bottom-width: 20px;
     }
 #contenedor1
     {   

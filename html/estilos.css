@@ -1,69 +1,57 @@
-h1
-    {   
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 25px;
-        border: 1;
-        text-align: center;    
-    }
-h2  {
-        font-size: 15px;
-        color: darkmagenta;
-    }
-p
-    {        
-        font-size: 20px;
-        text-align: center;
-    }
-#imgFlotanteD
-    {
-        float:right;
-    }
-#imgFlotanteI
-    {
-        float: left;
-    }
-.imgTamaño
-    {
-        width:60px ;
-        height: 60px;
-    }
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  border: 1;
+  text-align: center;
+}
+h2 {
+  font-size: 15px;
+  color: darkmagenta;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+}
+#imgFlotanteD {
+  float: right;
+}
+#imgFlotanteI {
+  float: left;
+}
+.imgTamaño {
+  width: 60px;
+  height: 60px;
+}
 
-#titulo1
-    {
-        color: blue;
-    }
+#titulo1 {
+  color: blue;
+}
 
-.contenedor
-    {   
-        text-align: center;
-        border: 10px solid black;
-        margin-top: 20px;
-        margin-bottom: 20px;
-        padding-left: 200px;
-        padding-right: 200px;
-        margin-right: 300px;
-        margin-left: 300px;
-        border-left-width: 20px;
-        border-right-width: 20px;
-        border-top-width: 20px;
-        border-bottom-width: 20px;
-    }
-#contenedor1
-    {   
-        background-color: burlywood;
-    }
-#contenedor2
-    {   
-        background-color: chartreuse;
-    }
-#contenedor3
-    { 
-        border: 5px solid red;
-        background-color: crimson;
-    }
-.p1 
-    {
-        font-family: sans-serif;
-        color: black;
-
-    }   
+.contenedor {
+  text-align: center;
+  border: 10px solid black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-right: 300px;
+  margin-left: 300px;
+  border-left-width: 20px;
+  border-right-width: 20px;
+  border-top-width: 20px;
+  border-bottom-width: 20px;
+}
+#contenedor1 {
+  background-color: burlywood;
+}
+#contenedor2 {
+  background-color: chartreuse;
+}
+#contenedor3 {
+  border: 5px solid red;
+  background-color: crimson;
+}
+.p1 {
+  font-family: sans-serif;
+  color: black;
+}
